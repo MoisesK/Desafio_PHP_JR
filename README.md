@@ -23,7 +23,7 @@
 
 ## Entrega:
 
-  O participante deverá criar um repositório no git e nele publicar o código do desafio. Serão aceitos os códigos publicados e compartilhados via Whatsapp até às 23:59h do dia 26/10. 
+  O participante deverá criar um repositório no github e nele publicar o código do desafio. Serão aceitos os códigos publicados e compartilhados via Whatsapp até às 23:59h do dia 26/10. 
   
   Além disso, me coloco à disposição para qualquer dúvida, seja técnica ou sobre o processo em si.
   
