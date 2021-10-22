@@ -16,6 +16,7 @@
   - PHP ( Sem utilização de fremeworks );
   - JQuery;
   - Bootstrap;
+  - Banco de dados Mysql;
 
 ## Entrega:
 
