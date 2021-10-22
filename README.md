@@ -9,7 +9,8 @@
 ## Desafio:
   A aplicação deve permitir o usuário:
   - Cadastrar um veículo; 
-  - Atualizar as informações do veículo; 
+  - Atualizar as informações do veículo;
+  - Excluir um veículo; 
   - Listar todos os veículos cadastrados no banco;
   - Na tela de listagem deve ser possível realizar a impressão desses dados;
 
