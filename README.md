@@ -1,4 +1,4 @@
-# Desafio para Vaga Desenvolvedor Jr
+# Desafio para Desenvolvedor Jr
 
 ## Instruções:
 
@@ -12,19 +12,15 @@
   - Atualizar as informações do veículo;
   - Excluir um veículo; 
   - Listar todos os veículos cadastrados no banco;
-  - Na tela de listagem deve ser possível realizar a impressão desses dados;
-
+    
 ## Requisitos:
   A Aplicação deve ser desenvolvida com as seguintes tecnologias:
   - PHP ( Sem utilização de fremeworks );
-  - JQuery;
-  - Bootstrap;
   - Banco de dados Mysql;
 
 ## Entrega:
+  - Deve criar uma branch com seu nome partindo de master e subir nela a sua versão da aplicação.
 
-  O participante deverá criar um repositório no github e nele publicar o código do desafio. Serão aceitos os códigos publicados e compartilhados via Whatsapp até às 23:59h do dia 26/10. 
-  
-  Além disso, me coloco à disposição para qualquer dúvida, seja técnica ou sobre o processo em si.
-  
-  Whatsapp para contato: +55 19 98819-2655
+## Plus
+  - Tente fazer um sistema de rotas que valide os verbos permitidos para cada rota criada.
+  - Tente utilizar padrões de projeto caso queira fazer esse desafio para melhorar ainda mais seu nível
